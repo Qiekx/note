@@ -111,20 +111,26 @@ console.log("aaa")
 ```
 
 ```
+
 2.b+tab
 等价于
 **b**
+
 3.img+tab
 等价于
 ![]()
+
 4.i+tab
 等价于
 *i*
+
 5.l+tab
 等价于
 []()
+
 6.ta+tab
 等价于
+
 | Header One     | Header Two     |
 | :------------- | :------------- |
 | Item One       | Item Two       |
