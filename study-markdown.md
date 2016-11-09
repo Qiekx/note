@@ -1,4 +1,5 @@
 # 我的 markdown 学习笔记
+<h1 style="color:blue;text-align:center;">我的 markdown 学习笔记</h1>
 
 # 我是h1
 ## 我是h2
@@ -45,14 +46,14 @@ console.log("aaa")
   - assds xs dcd dc sdcs
   - sadcdsc dc sdc sdcsd
   - asdsf sdfsd fcsdv vc
-- first commit
-- first commit
+- [x]first commit
+- [ ]first commit
 - first commit
 - first commit
 - first commit
 - first commit
 
-等价于
+等价于（例如：一系列任务，完成和未完成的的可以标注）
 
 ```
 <ul>
@@ -94,3 +95,36 @@ console.log("aaa")
 
 
 ***
+
+| Header One     | Header Two     | Header Three |
+| :------------- | :------------- | :----------  |
+| Item One       | Item Two       | Item Three   |
+| Item One       | Item Two       | Item Three   |
+| Item One       | Item Two       | Item Three   |
+| Item One       | Item Two       | Item Three   |
+| Item One       | Item Two       | Item Three   |
+
+
+快捷键 ：Ctrl-Shift-P
+1.c+tab   
+等价于
+```
+
+```
+2.b+tab
+等价于
+**b**
+3.img+tab
+等价于
+![]()
+4.i+tab
+等价于
+*i*
+5.l+tab
+等价于
+[]()
+6.ta+tab
+等价于
+| Header One     | Header Two     |
+| :------------- | :------------- |
+| Item One       | Item Two       |
