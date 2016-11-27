@@ -1,0 +1,7 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+.main{width: 100%;max-width: 600px;margin: 0 auto;padding: 10px;}
+.main h1{text-align: center;color: deeppink;font-size: 4em;}
+.main .add{width: 70%;padding: 10px 30px;border: none;color: blue;margin: 10px 0;font-size: 24px;margin-right: 10px;box-shadow: 2px 3px 4px #ccc;}
+.addBtn{padding: 10px 20px;font-size:24px;}
+.item{display: flex;padding-right: 6%;flex-direction: row;justify-content: space-between;align-items:center;margin: 5px 0;}
+.title{flex-grow: 2;margin-left: 20px;}
